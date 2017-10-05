@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/netbeast/redux-persist-react-native-fs.git"
   },
+  "peerDependencies": {
+    "react-native-fs": "^2.3.2",
+  },
   "keywords": [
     "redux-persist",
     "redux",
