@@ -11,7 +11,7 @@
     "url": "git+https://github.com/netbeast/redux-persist-react-native-fs.git"
   },
   "peerDependencies": {
-    "react-native-fs": "^2.3.2",
+    "react-native-fs": "^2.3.2"
   },
   "keywords": [
     "redux-persist",

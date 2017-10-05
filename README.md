@@ -2,8 +2,11 @@
 
 [![npm version](https://img.shields.io/npm/v/redux-persist-react-native-fs.svg?style=flat-square)](https://www.npmjs.com/package/redux-persist-react-native-fs)
 [![npm downloads](https://img.shields.io/npm/dt/redux-persist-react-native-fs.svg?style=flat-square)](https://www.npmjs.com/package/redux-persist-react-native-fs)
+
+
+
 React Native File System adapter for redux-persist storage.
-[Learn more](https://github.com/rt2zz/redux-persist)
+[Learn more](https://github.com/rt2zz/redux-persist).
 
 ## Installation
 1. Install [react-native-fs and link it](https://github.com/itinance/react-native-fs) to native android, ios, etc.
