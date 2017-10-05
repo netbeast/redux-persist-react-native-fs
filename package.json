@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-react-native-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storage implementation of a redux-persist storage around react-native-fs",
   "main": "index.js",
   "scripts": {
