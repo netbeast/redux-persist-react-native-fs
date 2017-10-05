@@ -1,0 +1,25 @@
+{
+  "name": "redux-persist-react-native-fs",
+  "version": "1.0.0",
+  "description": "Storage implementation of a redux-persist storage around react-native-fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netbeast/redux-persist-react-native-fs.git"
+  },
+  "keywords": [
+    "redux-persist",
+    "redux",
+    "react-native",
+    "react-native-fs"
+  ],
+  "author": "jsdario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netbeast/redux-persist-react-native-fs/issues"
+  },
+  "homepage": "https://github.com/netbeast/redux-persist-react-native-fs#readme"
+}
